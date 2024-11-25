@@ -1,13 +1,13 @@
-# iqueue
+# iQueue
 
-[IQueue homepage](https://hci.stanford.edu/courses/cs147/2017/au/projects/education/iqueue/)
+[iQueue homepage](https://hci.stanford.edu/courses/cs147/2017/au/projects/education/iqueue/)
 
-IQueue boilerplate was provided by react native seed.
-Uses CRNA allows easy cross-platform compilation and integration with Expo.  
-Uses redux for state management. 
-Uses "native base" component library with native android / ios components.  
+- React native seed boilerplate.
+- Create React Native App provides cross-platform integration with Expo.  
+- Redux for state management. 
+- Native Base component library with native android / ios components.
   
-Does not include firebase or AWS integration, using an actual webserver will require some additional work.  
+Does not include firebase or AWS integration, using a webserver will require additional work.  
 
 
 ## Tech stack Links  
